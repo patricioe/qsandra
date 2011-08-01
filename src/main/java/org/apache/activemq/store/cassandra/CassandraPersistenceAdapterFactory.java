@@ -2,8 +2,6 @@ package org.apache.activemq.store.cassandra;
 
 import org.apache.activemq.store.PersistenceAdapter;
 import org.apache.activemq.store.PersistenceAdapterFactory;
-import org.apache.cassandra.thrift.Cassandra;
-import org.apache.cassandra.thrift.ConsistencyLevel;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;
